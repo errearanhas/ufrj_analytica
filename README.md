@@ -1,4 +1,4 @@
-### ufrj_analytica
+### UFRJ Analytica
 
 Repo to store content regarding feature preprocessing and feature generation.
 
