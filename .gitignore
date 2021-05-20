@@ -1,2 +1,3 @@
 venv_analytica/
 .DS_Store
+.gitignore
