@@ -1,6 +1,6 @@
 ### UFRJ Analytica
 
-Repo to store content regarding feature preprocessing and feature generation.
+Repository to store content regarding feature preprocessing and feature generation.
 
 The main goal here is to cover the following types:
 
